@@ -23,6 +23,7 @@ React(Vite) 프론트엔드와 Spring Boot 백엔드, MySQL 데이터베이스�
 
 ## 📂 프로젝트 구조 (Project Structure)
 
+```
 todopractice/
 ├── .gitignore # 통합 관리 대상 제외 설정
 ├── README.md # 프로젝트 전체 가이드
@@ -45,6 +46,7 @@ todopractice/
 │ └── repository/ # JPA 리포지토리 (TodoRepository.java)
 ├── build.gradle # 백엔드 의존성 (Spring Boot 3.5.8, Java 21)
 └── src/main/resources/application.yml # MySQL 및 JPA 설정
+```
 
 ### Frontend
 
